@@ -1,0 +1,2 @@
+robot
+-DCATKIN_DEVEL_PREFIX=/home/emt_tecksang/ros_lift-gripper/devel -DCMAKE_INSTALL_PREFIX=/home/emt_tecksang/ros_lift-gripper/install -G Unix Makefiles

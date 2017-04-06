@@ -1,0 +1,8 @@
+prefix=/home/emt_tecksang/ros_lift-gripper/devel
+
+Name: robot
+Description: Description of robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/emt_tecksang/ros_lift-gripper/devel/lib 
+Requires: 
